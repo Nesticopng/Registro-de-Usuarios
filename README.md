@@ -2,7 +2,7 @@
 
 2 - Abrir el Terminal
 
-3 - Ejecutar los siguientes comandos 
+3 - Ejecutar los siguientes comandos: 
       3.1 - npm init -y
       3.2 - npm i json-server
 
